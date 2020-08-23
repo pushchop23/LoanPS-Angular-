@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LoanPS"
+    }
+  },
+  "defaultProject": "LoanPS",
+  "cli": {
+    "analytics": false
+  }
 }
